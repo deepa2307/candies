@@ -1,0 +1,88 @@
+body{
+    background-image: url("https://images.pexels.com/photos/4016509/pexels-photo-4016509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover; 
+    background-repeat: repeat; 
+}
+h3{
+    font-family: 'Butterfly Kids', cursive;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    color: rgb(237, 8, 84);
+}
+.container{
+    /* background-color: rgb(210, 247, 243); */
+    background-color: pink;
+    border-radius: 10px;
+    opacity: 0.9;
+    margin-top : 50px;
+    min-height: 100;
+    margin : auto;
+    width: 500px;
+    padding : 10px;
+    box-shadow: 0px 0px 10px 2px #a51313;
+} 
+
+.form-label{
+    color: rgb(126, 4, 37);
+    font-size: large;
+    font-weight: 100px;
+}
+.ul{
+    background-color: rgb(233, 116, 167) ;
+}
+
+.buy1{
+    background : "rgb(214, 244, 241)";
+    border: 0px;
+    border-radius: 5px;
+    border: 2px solid #015536;
+    margin : 2.5px;
+}
+
+.buy1:hover {
+    background-color: rgb(6, 241, 139);
+    color: #000b00;
+    border-width: 2px;
+} 
+.buy2{
+    background : "rgb(214, 244, 241)";
+    border: 0px;
+    border-radius: 5px;
+    border: 2px solid #015536;
+    margin : 2.5px;
+}
+
+.buy2:hover {
+    background-color: rgb(6, 241, 139);
+    color: #0f0e0e;
+    border-width: 2px;
+} 
+.buy3{
+    background : "rgb(214, 244, 241)";
+    border: 0px;
+    border-radius: 5px;
+    border: 2px solid #015536;
+    margin : 2.5px;
+}
+
+.buy3:hover {
+    background-color: rgb(6, 241, 139);
+    color: #050505;
+    border-width: 2px;
+} 
+
+
+.delete{
+    background : "rgb(214, 244, 241)";
+    border: 0px;
+    border-radius: 5px;
+    border: 2px solid #015536;
+    margin : 2.5px;
+}
+
+.delete:hover {
+    background-color: #ff0000;
+    color: #faf9f9;
+    border-width: 2px;
+} 
